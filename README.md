@@ -11,6 +11,11 @@
 7. [Intent Negotiation Framework for Intent-Driven Service Management](https://ieeexplore.ieee.org/abstract/document/10155732/)
 8. [SMART Intent-Driven Network Management](https://ieeexplore.ieee.org/abstract/document/10032317/)
 
-### Policy Conflict in Cellular Network
+
+### MARL Paper
+1. [MARIC: an efficient multi-agent real-time intention-based communication model for team cooperation](https://link.springer.com/article/10.1007/s00521-024-10655-8)
+
+   
+### MARL in IBN
 1 . [Intent-based multi-agent reinforcement learning for service assurance in cellular networks](https://ieeexplore.ieee.org/abstract/document/10001426/)
 2. [Intent-Based Multi-Agent Allocation with Nature-Inspired Online Algorithm](https://ieeexplore.ieee.org/abstract/document/11414112/)
