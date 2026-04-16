@@ -10,6 +10,7 @@
 6. [Intent-Driven Security Policy Management for Software-Defined Systems](https://ieeexplore.ieee.org/abstract/document/9797849/)
 7. [Intent Negotiation Framework for Intent-Driven Service Management](https://ieeexplore.ieee.org/abstract/document/10155732/)
 8. [SMART Intent-Driven Network Management](https://ieeexplore.ieee.org/abstract/document/10032317/)
+9. [Intent Based Networking management with conflict detection and policy resolution in an enterprise network](https://www.sciencedirect.com/science/article/pii/S1389128622004911)
 
 
 ### MARL Paper
