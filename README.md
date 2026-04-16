@@ -19,3 +19,6 @@
 ### MARL in IBN
 1 . [Intent-based multi-agent reinforcement learning for service assurance in cellular networks](https://ieeexplore.ieee.org/abstract/document/10001426/)
 2. [Intent-Based Multi-Agent Allocation with Nature-Inspired Online Algorithm](https://ieeexplore.ieee.org/abstract/document/11414112/)
+
+### Intent based Network Slicing
+1. [Intent-Based Radio Scheduler for RAN Slicing: Learning to Deal With Different Network Scenarios](https://ieeexplore.ieee.org/abstract/document/11179861/)
