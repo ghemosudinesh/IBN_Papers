@@ -11,5 +11,6 @@
 7. [Intent Negotiation Framework for Intent-Driven Service Management](https://ieeexplore.ieee.org/abstract/document/10155732/)
 8. [SMART Intent-Driven Network Management](https://ieeexplore.ieee.org/abstract/document/10032317/)
 
-9. ### Policy Conflict in Cellular Network
-10. [Intent-based multi-agent reinforcement learning for service assurance in cellular networks](https://ieeexplore.ieee.org/abstract/document/10001426/)
+### Policy Conflict in Cellular Network
+1 . [Intent-based multi-agent reinforcement learning for service assurance in cellular networks](https://ieeexplore.ieee.org/abstract/document/10001426/)
+2. [Intent-Based Multi-Agent Allocation with Nature-Inspired Online Algorithm](https://ieeexplore.ieee.org/abstract/document/11414112/)
