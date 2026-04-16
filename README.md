@@ -9,3 +9,4 @@
 5. [Assurance and Conflict Detection in Intent-Based Networking: A Comprehensive Survey and Insights on Standards and Open-Source Tools.](https://ieeexplore.ieee.org/abstract/document/11334180/)
 6. [Intent-Driven Security Policy Management for Software-Defined Systems](https://ieeexplore.ieee.org/abstract/document/9797849/)
 7. [Intent Negotiation Framework for Intent-Driven Service Management](https://ieeexplore.ieee.org/abstract/document/10155732/)
+8. [SMART Intent-Driven Network Management](https://ieeexplore.ieee.org/abstract/document/10032317/)
