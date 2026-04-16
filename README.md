@@ -10,3 +10,6 @@
 6. [Intent-Driven Security Policy Management for Software-Defined Systems](https://ieeexplore.ieee.org/abstract/document/9797849/)
 7. [Intent Negotiation Framework for Intent-Driven Service Management](https://ieeexplore.ieee.org/abstract/document/10155732/)
 8. [SMART Intent-Driven Network Management](https://ieeexplore.ieee.org/abstract/document/10032317/)
+
+9. ### Policy Conflict in Cellular Network
+10. [Intent-based multi-agent reinforcement learning for service assurance in cellular networks](https://ieeexplore.ieee.org/abstract/document/10001426/)
