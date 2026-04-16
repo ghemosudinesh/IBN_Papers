@@ -22,3 +22,9 @@
 
 ### Intent based Network Slicing
 1. [Intent-Based Radio Scheduler for RAN Slicing: Learning to Deal With Different Network Scenarios](https://ieeexplore.ieee.org/abstract/document/11179861/)
+
+
+### LLM in IBN
+1. [Intent-Based Management of Next-Generation Networks: an LLM-Centric Approach](https://ieeexplore.ieee.org/abstract/document/10574890/)
+2. [Intent-Based Network Configuration Using Large Language Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2313)
+3. [LLM-Based Policy Generation for Intent-Based Management of Applications](https://ieeexplore.ieee.org/abstract/document/10327837/)
