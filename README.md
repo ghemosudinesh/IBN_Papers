@@ -35,3 +35,4 @@
 1. [Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance](https://www.usenix.org/conference/usenixsecurity23/presentation/kim-jiwon)
 2. [Exploiting Intent-Flow State Vulnerabilities in Intent-Based Networking](https://ieeexplore.ieee.org/abstract/document/11226107/)
 3. [Security Challenges of Intent-Based Networking](https://dl.acm.org/doi/full/10.1145/3639702)
+4. [Intent-Driven Secure System Design: Methodology and Implementation](https://www.sciencedirect.com/science/article/pii/S0167404822003479?casa_token=HJb3PXXig4gAAAAA:KtYPZBEj48FIvwSe0H9SziE10zt6tQ2bjE8vBCIT81c0K-X8m9XL9BvTWpSG0LtLMMU0OjCMG5Y)
