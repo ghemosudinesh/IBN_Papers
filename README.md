@@ -37,3 +37,7 @@
 3. [Exploiting Temporal Vulnerabilities for Unauthorized Access in Intent-Based Networking](https://dl.acm.org/doi/abs/10.1145/3658644.3670301)
 4. [Security Challenges of Intent-Based Networking](https://dl.acm.org/doi/full/10.1145/3639702)
 5. [Intent-Driven Secure System Design: Methodology and Implementation](https://www.sciencedirect.com/science/article/pii/S0167404822003479?casa_token=HJb3PXXig4gAAAAA:KtYPZBEj48FIvwSe0H9SziE10zt6tQ2bjE8vBCIT81c0K-X8m9XL9BvTWpSG0LtLMMU0OjCMG5Y)
+
+### Intent Drift Detection
+1. [Service Assurance for IBN architecture](https://www.rfc-editor.org/info/rfc9417/)
+   
